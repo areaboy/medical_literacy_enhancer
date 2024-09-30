@@ -6,7 +6,7 @@ It easily analyze Medical Documents for **data Language Translations, Summarizat
 
 
 
-How To Test the Application Locally:
+# How To Test the Application Locally:
 
 This application was written in **PHP, Ajax, JQUERY, Bootstraps, Css, Mysql etc**.
 
